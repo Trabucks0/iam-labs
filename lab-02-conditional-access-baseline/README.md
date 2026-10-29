@@ -42,5 +42,5 @@ Prerequisites: free Azure account with Entra ID tenant + P2 trial; 3–4 test us
 
 ## Free sources for this lab
 
-- Microsoft Learn, SC-300: [Plan and implement Conditional Access](https://learn.microsoft.com/en-us/training/modules/plan-implement-manage-access/)
+- Microsoft Learn: [SC-300 learning path](https://learn.microsoft.com/en-us/training/paths/implement-identity-management-solution/)
 - Official SC-300 lab exercises: [microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator](https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/)
