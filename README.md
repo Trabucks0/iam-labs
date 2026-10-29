@@ -31,6 +31,6 @@ Hands-on identity and access management labs built in a dedicated Microsoft Entr
 
 ## Free learning sources behind these labs
 
-- [Microsoft Learn — SC-300 modules](https://learn.microsoft.com/en-us/training/modules/plan-implement-manage-access/) (free, official)
+- [Microsoft Learn — SC-300 learning path](https://learn.microsoft.com/en-us/training/paths/implement-identity-management-solution/) (free, official)
 - [Microsoft's official SC-300 lab instructions](https://microsoftlearning.github.io/SC-300-Identity-and-Access-Administrator/) (free, GitHub)
-- [CyberArk PAM overview + Blueprint framework](https://www.cyberark.com/products/privileged-access-management) (free)
+- CyberArk Blueprint — free PAM architecture framework (cyberark.com)
